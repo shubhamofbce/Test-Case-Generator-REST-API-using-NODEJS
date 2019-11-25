@@ -80,6 +80,6 @@ app.post("/arrays",function(req,res,next){
 });
 
 //Server Listening
-app.listen(300090, () => {
+app.listen(3000, () => {
     console.log("Server running on port 3000");
 });
